@@ -3,12 +3,12 @@
   define(['./fields'], function(fields) {
     var assetName, configureFields, host, options, projectListClickTarget, service, serviceGateway, showDebugMessages, versionOneAuth;
     showDebugMessages = true;
-    host = '/pt/https://www14.v1host.com';
-    service = host + '/v1sdktesting/rest-1.v1/Data/';
-    versionOneAuth = 'admin:admin';
+    host = '/pt/https://www16.v1host.com';
+    service = host + '/DMBA/rest-1.v1/Data/';
+    versionOneAuth = 'requestor:DMBA@1234';
     serviceGateway = false;
     assetName = "Request";
-    projectListClickTarget = 'new';
+    projectListClickTarget = 'list';
     configureFields = function(obj) {
       var field, fieldGroup, fieldGroupName, fieldName, _results;
       _results = [];
