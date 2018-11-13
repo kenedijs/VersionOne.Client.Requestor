@@ -20,4 +20,4 @@ If you do it this way, you should take care to create a user in your VersionOne 
 * Once finished the app will be available at `<appname_chosen>.herokuapp.com`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/versionone/VersionOne.Client.Requestor/)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kenedijs/VersionOne.Client.Requestor/)
